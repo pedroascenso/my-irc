@@ -2,9 +2,9 @@
 > I'm no longer working on this project. 
 > This was a lesson on thread pools and tcp connections.
 
-# MyIRC - Java Chat Server
+# MYmIRC - Java Chat Server
 
-MyIRC is a Java-based chat server that allows multiple clients to connect to a server and communicate with each other in real-time. 
+MYmIRC is a Java-based chat server that allows multiple clients to connect to a server and communicate with each other in real-time. 
 
 ## Table of Contents
 
@@ -59,8 +59,8 @@ Once connected, you can start sending messages to other clients on the server.
 
 ## Contributing
 
-Contributions to MyIRC are always welcome! If you find a bug or want to suggest an enhancement, please submit an issue. If you'd like to contribute code, please fork the repository and create a pull request.
+Contributions to MYmIRC are always welcome! If you find a bug or want to suggest an enhancement, please submit an issue. If you'd like to contribute code, please fork the repository and create a pull request.
 
 ## License
 
-MyIRC is licensed under the MIT License. See [LICENSE](https://opensource.org/licenses/MIT) for details.
+MYmIRC is licensed under the MIT License. See [LICENSE](https://opensource.org/licenses/MIT) for details.
