@@ -55,8 +55,8 @@ Once connected, you can start sending messages to other clients on the server.
 - `/help` - Displays a list of all available commands.
 - `/users` - Displays a list of all connected clients.
 - `/whisper <username> <message>` - Sends a private message to a specific user.
-- `/username - Prompts the user to enter a new username.
-- `/quit - Closes the client session and disconnects from the server.
+- `/username`- Prompts the user to enter a new username.
+- `/quit`- Closes the client session and disconnects from the server.
 
 ## Contributing
 
@@ -64,4 +64,4 @@ Contributions to MyIRC are always welcome! If you find a bug or want to suggest 
 
 ## License
 
-MyIRC is licensed under the MIT License. See LICENSE for details.
+MyIRC is licensed under the MIT License. See [LICENSE](https://opensource.org/licenses/MIT) for details.
