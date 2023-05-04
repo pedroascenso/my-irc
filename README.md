@@ -28,8 +28,9 @@ MyIRC is a Java-based chat server that allows multiple clients to connect to a s
 ## Getting Started
 
 To get started with MyIRC, you'll need to clone the repository and run the `ChatServer` class. 
-
+````
 git clone https://github.com/your-username/myirc.git
 cd myirc/src
 javac -cp . silva/ascenso/pedro/*.java
 java -cp . silva.ascenso.pedro.ChatServer
+````
