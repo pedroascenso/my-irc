@@ -27,7 +27,6 @@ MyIRC is a Java-based chat server that allows multiple clients to connect to a s
 ## Technologies Used
 
 - Java 8
-- Maven
 
 ## Getting Started
 
