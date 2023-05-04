@@ -63,4 +63,4 @@ Contributions to MyIRC are always welcome! If you find a bug or want to suggest 
 
 ## License
 
-MyIRC is licensed under the MIT License. See [LICENSE](https://opensource.org/licenses/MIT) for details.
+MyIRC is licensed under the MIT License. See [LICENSE](https://github.com/pedroascenso/my-irc/blob/main/LICENSE) for details.
