@@ -59,7 +59,7 @@ Once connected, you can start sending messages to other clients on the server.
 
 ## Contributing
 
-Contributions to MyIRC are always welcome! If you find a bug or want to suggest an enhancement, please submit an issue. If you'd like to contribute code, please fork the repository and create a pull request.
+Contributions to are always welcome! If you find a bug or want to suggest an enhancement, please submit an issue. If you'd like to contribute code, please fork the repository and create a pull request.
 
 ## License
 
