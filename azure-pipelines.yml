@@ -10,12 +10,6 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-
-- script: 
-    # Add a script to print the machine's IP address
-    echo "Machine IP Address:"
-    ip addr show | grep -oP 'inet \K\S+'
-  displayName: 'Print Machine IP Address'
   
 - script: 
     cd my-irc/src
