@@ -1,0 +1,26 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+- main
+
+pool:
+  vmImage: ubuntu-latest
+
+steps:
+
+- script: 
+    # Add a script to print the machine's IP address
+    echo "Machine IP Address:"
+    ip addr show | grep -oP 'inet \K\S+'
+  displayName: 'Print Machine IP Address'
+  
+- script: 
+    cd my-irc/src
+    javac -cp . silva/ascenso/pedro/*.java
+    java -cp . silva.ascenso.pedro.ChatServer
+  displayName: 'Run Java App'
+
+  
