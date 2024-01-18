@@ -11,10 +11,6 @@ pool:
 
 steps:
   
-- script: 
-    cd my-irc/src
-    javac -cp . silva/ascenso/pedro/*.java
-    java -cp . silva.ascenso.pedro.ChatServer
+- script: |
+    cd my-irc/src && javac -cp . silva/ascenso/pedro/*.java && java -cp . silva.ascenso.pedro.ChatServer
   displayName: 'Run Java App'
-
-  
